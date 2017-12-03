@@ -1,3 +1,4 @@
+© Centrora Security , 360 Elizabeth street, Melbourne, Vic 3000
 # gitbackup
 The code is able to backup the files as well as MYsql databse for wordpress and Joomla websites 
 The code provides functionalities like : 
